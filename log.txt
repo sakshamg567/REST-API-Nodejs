@@ -1,0 +1,4 @@
+Date: 2024-10-26T13:59:41.296Z | Method: GET | PATH: /api/users/ 
+Date: 2024-10-26T13:59:55.332Z | Method: GET | PATH: /api/users/671c069d3f611baf3611f219 
+Date: 2024-10-26T14:00:01.763Z | Method: GET | PATH: /api/users/ 
+Date: 2024-10-26T14:00:08.357Z | Method: GET | PATH: /api/users/671c049e9b67bb558986a1ce 
